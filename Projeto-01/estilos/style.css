@@ -8,11 +8,11 @@ body {
 
 #hero {
   width: 592px;
-  margin: 0px auto 72px;
+  margin: 0px auto 37px;
 }
 
 #hero img {
-  margin-bottom: 72px;
+  margin-bottom: 37px;
 }
 
 h1 {
@@ -29,6 +29,11 @@ h1 span {
 
 span, a {
   color: #FF9900;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ac7625;
 }
 
 p, #footer {
